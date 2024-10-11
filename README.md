@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joshua</h1>
 <h3 align="center">A curious learner from 🇸🇬</h3>
 
-- 👨‍💻 My portfolio is available at [https://joshuan98.github.io/resume](https://joshuan98.github.io/resume)
+- 👨‍💻 My portfolio is available at [http://joshuanee.vercel.app/](http://joshuanee.vercel.app/)
 
 - 📫 You can reach me at **joshuanee@u.nus.edu**
 
